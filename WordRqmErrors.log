@@ -1,0 +1,60 @@
+The requested member of the collection does not exist. 
+  Time='08/23/18 16:58:02' App='WordToRQM:16.1.3637' ADO-version='6.1' Computer='B48' 
+  Method: Connect.AttachRqmDot 
+  Number: 5941 = &H1735 = vbObjectError + 2147227445 = ERRMAP_APP_FIRST + 2147222247 
+  Source: Microsoft Word 
+  Description: The requested member of the collection does not exist.
+  Call Stack: Connect.AttachRqmDot() ---------------------------------------------------------------
+
+
+
+The specified Word library cannot be unloaded because it is in use. 
+  Time='05/11/19 11:13:39' App='WordToRQM:16.1.3637' ADO-version='6.1' Computer='B48' 
+  Method: Connect.AttachRqmDot 
+  Number: 4662 = &H1236 = vbObjectError + 2147226166 = ERRMAP_APP_FIRST + 2147220968 
+  Source: Microsoft Word 
+  Description: The specified Word library cannot be unloaded because it is in use.
+  Call Stack: Connect.AttachRqmDot() ---------------------------------------------------------------
+
+
+
+The requested member of the collection does not exist. 
+  Time='05/11/19 11:13:41' App='WordToRQM:16.1.3637' ADO-version='6.1' Computer='B48' 
+  Method: Connect.App_Quit 
+  Number: 5941 = &H1735 = vbObjectError + 2147227445 = ERRMAP_APP_FIRST + 2147222247 
+  Source: Microsoft Word 
+  Description: The requested member of the collection does not exist.
+  Call Stack: Connect.App_Quit() -------------------------------------------------------------------
+
+
+
+Invalid procedure call or argument 
+  Time='05/11/19 11:13:41' App='WordToRQM:16.1.3637' ADO-version='6.1' Computer='B48' 
+  Method: Connect.CleanCustomBarButtons 
+  Number: 5 = &H5 = vbObjectError + 2147221509 = ERRMAP_APP_FIRST + 2147216311 
+  Source: WordToRqm16 
+  Description: Invalid procedure call or argument
+  Call Stack: Connect.CleanCustomBarButtons(bRemoveBar=True) ---------------------------------------
+
+
+
+The requested member of the collection does not exist. 
+  Time='05/11/19 11:13:41' App='WordToRQM:16.1.3637' ADO-version='6.1' Computer='B48' 
+  Method: Connect.IDTExtensibility2_OnBeginShutdown 
+  Number: 5941 = &H1735 = vbObjectError + 2147227445 = ERRMAP_APP_FIRST + 2147222247 
+  Source: Microsoft Word 
+  Description: The requested member of the collection does not exist.
+  Call Stack: Connect.IDTExtensibility2_OnBeginShutdown() ------------------------------------------
+
+
+
+The requested member of the collection does not exist. 
+  Time='05/11/19 11:13:46' App='WordToRQM:16.1.3637' ADO-version='6.1' Computer='B48' 
+  Method: Connect.AttachRqmDot 
+  Number: 5941 = &H1735 = vbObjectError + 2147227445 = ERRMAP_APP_FIRST + 2147222247 
+  Source: Microsoft Word 
+  Description: The requested member of the collection does not exist.
+  Call Stack: Connect.AttachRqmDot() ---------------------------------------------------------------
+
+
+
